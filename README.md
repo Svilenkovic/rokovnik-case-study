@@ -51,6 +51,12 @@ Lighthouse, lab test of the live site, September 2026.
   </tr>
 </table>
 
+<img src="media/inner-1.webp" alt="Page about tracking registration expiry">
+<sub>Page about tracking registration expiry</sub>
+
+<img src="media/inner-2.webp" alt="Page for vehicle inspection stations">
+<sub>Page for vehicle inspection stations</sub>
+
 ---
 
 <sub>Built by [D. Svilenković](https://svilenkovic.com).</sub>
